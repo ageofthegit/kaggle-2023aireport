@@ -1,0 +1,14 @@
+
+
+Question to CGPT
+
+Context
+I'm participating in an analytics competition, where i am tasked with writing an essay on one of the following seven topics, with a prompt to describe what the community has learned over the past 2 years of working and experimenting with :
+
+Text data
+Image and/or video data
+Tabular and/or time series data
+Kaggle Competitions
+Generative AI
+AI ethics
+Other (anything that does not fall into any other category)
