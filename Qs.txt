@@ -2,6 +2,9 @@
 
 Question to CGPT
 
+Q1
+Please summarise the video based on the context below :
+
 Context
 I'm participating in an analytics competition, where i am tasked with writing an essay on one of the following seven topics, with a prompt to describe what the community has learned over the past 2 years of working and experimenting with :
 
@@ -11,4 +14,8 @@ Tabular and/or time series data
 Kaggle Competitions
 Generative AI
 AI ethics
-Other (anything that does not fall into any other category)
+Other (anything that does not fall into any other category).
+
+
+Q2
+Can you summarise the video from three separate perspectives, one focussing on AI Ethics, one of Generative AI, AI regulation and one for the Future of the world with AI 
