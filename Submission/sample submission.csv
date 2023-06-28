@@ -1,0 +1,6 @@
+ type,value
+ essay_category,'copy/paste the exact category that you are submitting to'
+ essay_url,'http://www.kaggle.com/your_username/your_public_notebook'
+ feedback1_url,'http://www.kaggle.com/.../your_1st_peer_feedback'
+ feedback2_url,'http://www.kaggle.com/.../your_2nd_peer_feedback'
+ feedback3_url,'http://www.kaggle.com/.../your_3rd_peer_feedback'
